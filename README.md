@@ -11,3 +11,7 @@ RawData File : pb-sales-data-blank.xlsx (Dataset for all sales data of the compa
 PowerBI File : ChocolateCompany_Sales_DataAnalysis.pbix
 
 Final Report Image : Saled Report Screenshot.PNG
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Saled Report Screenshot](https://user-images.githubusercontent.com/19344819/231682917-df72df52-a425-4ecb-907e-4d93c666412e.PNG)
